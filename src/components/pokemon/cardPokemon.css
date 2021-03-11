@@ -1,0 +1,22 @@
+.container-card {
+  border-radius: 8px;
+  background-color: rgba(87, 82, 85, 0.116);
+}
+
+.imgId {
+  color: rgba(17, 15, 15, 0.719);
+  font-size: 125px;
+  padding-top: 20px;
+  position: absolute;
+  z-index: -1;
+}
+
+@media (max-width: 360px) {
+  .imgId {
+    font-size: 40px;
+  }
+}
+
+h5 {
+  padding-top: 20px;
+}

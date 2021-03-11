@@ -1,0 +1,27 @@
+img {
+  width: 10%;
+}
+
+.pokemon-snap {
+  position: absolute;
+  width: 280px;
+  top: -90px;
+  z-index: 1;
+}
+
+.padd-card {
+  padding: 60px 0px;
+  min-height: 300px;
+}
+h3 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-shadow: rgb(194, 190, 190) 0.1em 0.1em 0.2em;
+}
+h6 {
+  color: white;
+}
+
+.stats {
+  margin-top: 8px;
+}
